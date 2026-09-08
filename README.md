@@ -1,10 +1,13 @@
 # geo-marketing
+
 O estudo explica o conceito e como aplicar técnicas GEO (Generative Engine Optimization). A ideia é entender como fazer com que a IA indique marcas. Cada vez mais as buscas por produtos e serviços estão sendo feitas pelas buscas com IA como Chatgpt, Gemini, Perplexty, entre outros e o SEO, que é o rankeamento das buscas no Google, está perdendo espaço. No marketing, essas técnicas GEO estão se tornando cada vez mais relevantes para atrair leads e novos clientes. 
 
 • Fontes de artigos transformados em .md
 
 https://mundodomarketing.com.br/como-aparecer-nas-ias-pilares-do-geo
+
 https://mundodomarketing.com.br/geo-lidera-crescimento-entre-prioridades-de-marketing-para-2026
+
 https://www.alura.com.br/artigos/geo-generative-engine-optimization?srsltid=AfmBOorFs_3OE3d27UlKqqLkwJxV-3xYRi4fuWTEnuv0UEF1WCw7SSFp
 
 • Entendimento do NotebookLM:
