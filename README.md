@@ -1,13 +1,11 @@
-# geo-marketing
+README 
 
 O estudo explica o conceito e como aplicar técnicas GEO (Generative Engine Optimization). A ideia é entender como fazer com que a IA indique marcas. Cada vez mais as buscas por produtos e serviços estão sendo feitas pelas buscas com IA como Chatgpt, Gemini, Perplexty, entre outros e o SEO, que é o rankeamento das buscas no Google, está perdendo espaço. No marketing, essas técnicas GEO estão se tornando cada vez mais relevantes para atrair leads e novos clientes. 
 
 • Fontes de artigos transformados em .md
 
 https://mundodomarketing.com.br/como-aparecer-nas-ias-pilares-do-geo
-
 https://mundodomarketing.com.br/geo-lidera-crescimento-entre-prioridades-de-marketing-para-2026
-
 https://www.alura.com.br/artigos/geo-generative-engine-optimization?srsltid=AfmBOorFs_3OE3d27UlKqqLkwJxV-3xYRi4fuWTEnuv0UEF1WCw7SSFp
 
 • Entendimento do NotebookLM:
@@ -103,7 +101,8 @@ Confiabilidade: Manter as informações atualizadas e citar referências checáv
 
 Presença Externa e Menções de Marca: Sinais de menção frequente ao nome da sua marca em veículos de alta credibilidade (portais de notícias, blogs de referência), mesmo que não venham acompanhados de backlinks estruturados, ajudam a consolidar a reputação da sua entidade perante os algoritmos de IA.
 
-Evitar Práticas Nocivas: Práticas tradicionais ultrapassadas, como o keyword stuffing (excesso de palavras-chave inseridas de forma artificial), têm impacto altamente negativo no GEO, podendo reduzir em até 10% a visibilidade nas IAs.
+Evitar Práticas Nocivas: Práticas tradicionais ultrapassadas, como o keyword stuffing (excesso de palavras-chave inseridas de forma artificial), têm impacto altamente negativo no GEO, podendo reduzir em até 10% a visibilidade nas IAs
+.
 
 ## 5. Quais ferramentas adequadas para melhorar as indicações de IA?
 
@@ -117,4 +116,3 @@ Ferramentas de Análise de Tráfego: O Google Analytics 4 (GA4) possui um canal 
 Ferramentas de Auditoria e Descoberta de Gaps: Plataformas consolidadas como Semrush, Ahrefs e Surfer SEO auxiliam a encontrar gaps semânticos, identificar perguntas frequentes dos usuários no nicho e estruturar os clusters de palavras-chave.
 
 Ferramentas de Produção e QA (Garantia de Qualidade): Utilizar ChatGPT, Claude ou Gemini estruturados com prompts focados em GEO. É possível instruir os modelos para extrair as principais dúvidas informacionais de um tema ou para realizar auditorias rápidas no conteúdo pronto (verificando se há respostas diretas de 60 palavras nos primeiros parágrafos, se há estatísticas adicionadas e se os H2 estão formatados como pergunta).
-
